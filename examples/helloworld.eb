@@ -1,0 +1,27 @@
+clear H;
+set H 72;
+clear e;
+set e 101;
+clear l;
+set l 108;
+clear o;
+set o 111;
+
+clear W;
+set W 87;
+clear r;
+set r 114;
+clear d;
+set d 100;
+
+printa H;
+printa e;
+printa l;
+printa l;
+printa o;
+
+printa W;
+printa o;
+printa r;
+printa l;
+printa d;
