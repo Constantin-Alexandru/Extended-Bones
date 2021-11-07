@@ -13,8 +13,9 @@ All the operations inside Extended Bones are going to be numerical based. There 
 - [ ] Variables and Arrays
 - [ ] Conditions ( _if_, _elif_, _else_ )
 - [ ] Loops ( _for_, _while_ )
-- [ ] Procedures
 - [ ] Printing of characters using the [ASCII Character Code](https://en.wikipedia.org/wiki/ASCII)
+- [ ] Comment support
+- [ ] Procedures
 - [ ] Compiling and Interpreting
 - [ ] Multi-file programs
 - [ ] Standard Library with useful functions

@@ -1,6 +1,11 @@
-#include <cstdio>
+#include "./includes/main.h"
+
 int main()
 {
-    printf("Hello World");
+    Lexer lex;
+
+    char program[] = "clear H;\n set H 72;\n printa H;\n    ";
+
+    lex.lex(program);
     return 0;
 }
